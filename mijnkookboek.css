@@ -1,0 +1,89 @@
+body {
+    background-color: #FFA37C;
+    font-family: fantasy;
+    border-radius: 20px;
+	height: 100%;
+}
+
+html {
+    background: radial-gradient(circle, orange, #FFFF86 50%, #FFFF86 50%, orange);
+    background-size: 8px 8px;
+}
+
+nav ul a {
+	padding: 5px 5px;
+    text-decoration: none;
+    color: black;
+	margin: 0px;
+	border-right: 2px solid black;
+}
+
+nav ul a:last-child {
+	border-right: none;
+}
+
+ul a:hover {
+    color: khaki;
+    background-color: #FF9999;
+	border: 2px solid black;
+	border-radius: 10px;
+}
+
+ul a {
+	padding: 15px 10px;
+    text-decoration: none;
+    color: black;
+	margin: 0px;
+}
+
+nav {
+	list-style-type: none;
+    border: 2px  solid;
+    border-radius: 10px;
+    background-color: #FF7235;
+}
+
+.home {
+	margin: 50px;
+	color: #DC6000;
+	text-decoration: none;
+}
+
+.home:hover {
+	text-decoration: underline;
+}
+
+ul li a {
+	margin: 40px;
+	list-style-type: none;
+}
+
+img { 
+	height: 100px;
+	width: 100px;
+	border-radius: 10px;
+	right: 400px;
+}
+
+.welkom {
+	position: relative;
+}
+
+ul li {
+	list-style-type: none;
+}
+
+.aanrader {
+	height: 100pxpx;
+	width: 400px;
+	background-color: maroon;
+	margin: 20px 40px;
+	padding: 20px 40px;
+	text-decoration: none;
+	color: black;
+	border-radius: 20px;
+}
+
+.aanrader:hover {
+	
+}
