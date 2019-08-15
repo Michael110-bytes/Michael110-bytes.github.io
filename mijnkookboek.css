@@ -85,5 +85,7 @@ ul li {
 }
 
 .aanrader:hover {
-	
+	text-decoration: underline;
+	background-color: rgb(255, 178, 102);
+	border: 2px maroon dotted;
 }
