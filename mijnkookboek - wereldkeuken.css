@@ -12,3 +12,7 @@
 .getal {
 	font-family: monospace, sans-serif;
 }
+
+.doorgestreept {
+	text-decoration: line-through;
+}
