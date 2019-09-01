@@ -1,8 +1,8 @@
 .ingredientenbox {
 	background-color: coral;
-	max-width: 50%;
+	max-width: 100%;
 	border-radius: 10px;
-	width: 25%;
+	min-width: 120px;
 }
 
 .ingredienten {
