@@ -16,3 +16,8 @@
 .doorgestreept {
 	text-decoration: line-through;
 }
+
+.vlag {
+	width: 180px;
+	height: 100px;
+}
