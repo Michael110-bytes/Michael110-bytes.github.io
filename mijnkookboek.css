@@ -1,46 +1,67 @@
 body {
-    background-color: #FFA37C;
-    font-family: fantasy;
+    background-color: rgb(190,255,210);
+    font-family: sans-serif;
     border-radius: 20px;
 	height: 100%;
 }
 
+.text {
+	text-align: center;
+}
+
+#scheidingslijn {
+	background-color: green;
+	height: 2px;
+	width: 100%;
+}
+
 html {
-    background: radial-gradient(circle, orange, #FFFF86 50%, #FFFF86 50%, orange);
+    background: radial-gradient(circle, rgb(51,255,153) , white 50%, rgb(204,255,229) 50%, white);
     background-size: 8px 8px;
 }
 
 nav ul a {
 	padding: 5px 5px;
     text-decoration: none;
-    color: black;
-	margin: 0px;
-	border-right: 2px solid black;
+    color: white;
+	margin: auto;
 }
 
 nav ul a:last-child {
 	border-right: none;
+	margin-right: 50px;
+}
+
+nav ul a:first-child {
+	margin-left: 50px;
+}
+
+nav ul {
+	display: inline-block;
+	text-align: center;
 }
 
 ul a:hover {
-    color: khaki;
-    background-color: #FF9999;
-	border: 2px solid black;
-	border-radius: 10px;
+    color: rgb(20,20,20);
+    background-color: white;
+	border-radius: 3px;
+	max-height: 50px;
 }
 
 ul a {
-	padding: 15px 10px;
+	padding: 100px 10px;
     text-decoration: none;
     color: black;
-	margin: 0px;
+	margin-left: 0px;
+	height: 50px;	
 }
 
 nav {
 	list-style-type: none;
-    border: 2px  solid;
-    border-radius: 10px;
-    background-color: #FF7235;
+    background-color: rgb(20,20,20);
+	height: 50px;
+	width: 100%;
+	text-align: center;
 }
 
 .home {
@@ -54,8 +75,19 @@ nav {
 }
 
 ul li a {
-	margin: 40px;
-	list-style-type: none;
+	height: 100px;
+	width: 400px;
+	background-color: rgb(0,204,0);
+	margin: 20px 40px;
+	padding: 20px 40px;
+	text-decoration: none;
+	color: black;
+}
+
+ul li a:hover {
+	text-decoration: underline;
+	background-color: rgb(60,179,0);
+	border: 2px rgb(0,255,0) dotted;
 }
 
 img { 
@@ -76,7 +108,7 @@ ul li {
 .aanrader {
 	height: 100pxpx;
 	width: 400px;
-	background-color: maroon;
+	background-color: rgb(0,204,0);
 	margin: 20px 40px;
 	padding: 20px 40px;
 	text-decoration: none;
@@ -86,6 +118,6 @@ ul li {
 
 .aanrader:hover {
 	text-decoration: underline;
-	background-color: rgb(255, 178, 102);
-	border: 2px maroon dotted;
+	background-color: rgb(60,179,0);
+	border: 2px rgb(0,255,0) dotted;
 }
