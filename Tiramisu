@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        	<title>mijnkookboek.be - tiramisu</title>
+        	<link type="text/css" rel="stylesheet" href="mijnkookboek.css">
+    </head>
+    <body>
+        <a class="home" href="index.html"><h3><strong>Home</strong></h3></a>
+        <h1>tiramisu</h1>
+        <h3>NAGERECHT - 6-8 PORTIES - 30 MIN.</h3>
+        <p>Ingredënten:</p>
+        <ul>
+            <li>500g mascarpone</li>
+            <li>3 eieren</li>
+            <li>150g suiker</li>
+            <li>2 pakjes lange vingers</li> 
+            <li>2 zakjes vanille suiker</li>
+            <li>chocolademelk</li>
+            <li>cacaopoeder</li>
+        </ul>
+        <br>
+        <h2>De bereiding</h2>
+        <p><strong>1)</strong> Splits de eieren.</p>
+        <p><strong>2)</strong> Meng de dooiers (eigeel) met de mascarpone en de fijne suiker.</p>
+        <p><strong>3)</strong> Klop het eiwit stijf samen met de vanillesuiker.</p>
+        <p><strong>4)</strong> Spatel het door de mascarpone.</p>
+        <p><strong>5)</strong> Dompel de helft van de koekjes in de chocolademelk (3 seconde aan elke kant) en schik ze in een schaal.</p>
+        <p><strong>6)</strong> Bestrijk met de helft van de mascarponecreme en bestrooi met cacaopeder.</p>
+        <p><strong>7)</strong> Leg daarop de rest van de koekjes en bestrijk met de rest van de creme.</p>
+        <p><strong>8)</strong> Eindig met cacaopoeder.</p>
+        <p><strong>9)</strong> Zet 1 nacht in de koelkast.</p>
+        <br>
+    </body>
+</html>
