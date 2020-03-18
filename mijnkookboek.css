@@ -114,6 +114,7 @@ ul li {
 	text-decoration: none;
 	color: black;
 	border-radius: 20px;
+	font-weight: 600;
 }
 
 .aanrader:hover {
