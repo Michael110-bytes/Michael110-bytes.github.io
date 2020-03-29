@@ -87,6 +87,11 @@ nav {
 	text-decoration: underline;
 }
 
+.foto {
+	height: 80%;
+	width: auto;
+}
+
 ul li a {
 	height: 100px;
 	width: 400px;
