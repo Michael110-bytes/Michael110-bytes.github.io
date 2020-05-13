@@ -42,10 +42,6 @@ html {
 	grid-template-columns: repeat(4, 1fr);
 }
 
-.box {
-	
-}
-
 .HPtekst {
 	padding: 10px 20px;
     text-decoration: none;
